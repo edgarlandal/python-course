@@ -1,5 +1,3 @@
-import random
-
 # functions
 def exc1():
     print("=== List ===")
